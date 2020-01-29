@@ -1,1 +1,1 @@
-# Bank-Customer-Queuing-System
+# Bank Customer Queuing System
