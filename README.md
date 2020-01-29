@@ -44,17 +44,20 @@ Current Queue: Empty
 1- Add a new customer to the queue
 2- Process a customer
 2
+
 There is no customer in the queue
 Current Queue: Empty
 1- Add a new customer to the queue
 2- Process a customer
 1
+
 Please enter the type of customer: 0
 Name of the customer: Ali
 Current Queue: 0
 1- Add a new customer to the queue
 2- Process a customer
 1
+
 Please enter the type of customer: 1
 Name of the customer: Mehmet
 Current Queue: 0-1
@@ -65,6 +68,7 @@ Current Queue: 0-0-0-0-1-2-2
 1- Add a new customer to the queue
 2- Process a customer
 2
+
 Ali is processed-0
 Current Queue: 0-0-0-1-2-2
 1- Add a new customer to the queue
@@ -74,11 +78,13 @@ Current Queue: 1-2-2
 1- Add a new customer to the queue
 2- Process a customer
 2
+
 Mehmet is processed-1
 Current Queue: 2-2
 1- Add a new customer to the queue
 2- Process a customer
 1
+
 Please enter the type of customer: 0
 Name of the customer: Ahmet
 
@@ -86,6 +92,7 @@ Current Queue: 0-2-2
 1- Add a new customer to the queue
 2- Process a customer
 1
+
 Please enter the type of customer: 0
 Name of the customer: Veli
 Current Queue: 0-2-2-0
