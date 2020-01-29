@@ -38,12 +38,12 @@ priorities in the data structure.
 
 
 
-Output of your program appear as follows:
------- Bank System --------
-Current Queue: Empty
-1- Add a new customer to the queue
-2- Process a customer
-2
+#Output of your program appear as follows:
+#------ Bank System --------
+#Current Queue: Empty
+#1- Add a new customer to the queue
+#2- Process a customer
+#2
 
 There is no customer in the queue
 Current Queue: Empty
